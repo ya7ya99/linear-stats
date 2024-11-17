@@ -1,4 +1,3 @@
-إليك محتوى ملف README.md لبرنامجك:
 
 # Linear Regression and Pearson Correlation Coefficient Calculator
 
